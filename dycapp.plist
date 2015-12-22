@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dyc.MemberApp</string>
+				<string>com.dyc-enterprise.MemberApp</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
